@@ -1,0 +1,6 @@
+xgboost
+scikit-learn
+scikit-image
+seaborn
+imagecodecs
+ipykernel
