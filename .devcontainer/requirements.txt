@@ -3,4 +3,5 @@ scikit-learn
 scikit-image
 seaborn
 imagecodecs
+pyaml
 ipykernel
